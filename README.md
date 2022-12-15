@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Yogesh Kumar
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
