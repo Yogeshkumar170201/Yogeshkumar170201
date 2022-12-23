@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yogesh Kumar
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning how to learn
